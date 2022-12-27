@@ -5,12 +5,12 @@ const Header = () => (
   <div className='gpt3__header section__padding' id='home'>
     <div className='gpt3__header-content'>
       <h1 className='gradient__text'>
-        Let&apos;s Build Something amazing with GPT-3 OpenAI
+        Let&apos;s Build Something Amazing with GPT-3 OpenAI
       </h1>
       <p>
-        Yet bed any for travelling assistance indulgence unpleasing. Not
-        thoughts all exercise blessing. Indulgence way everything joy alteration
-        boisterous the attachment. Party we years to order allow asked of.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. At nobis eum
+        eligendi. Inventore consectetur ipsam id sed eaque iste error incidunt
+        reiciendis voluptatum, nemo voluptates!
       </p>
 
       <div className='gpt3__header-content__input'>
@@ -20,7 +20,7 @@ const Header = () => (
 
       <div className='gpt3__header-content__people'>
         <img src={people} alt='people' />
-        <p>1,600 people requested access a visit in last 24 hours</p>
+        <p>1,600 people have requested access in last 24 hours</p>
       </div>
     </div>
 
