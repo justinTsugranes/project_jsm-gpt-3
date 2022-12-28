@@ -17,16 +17,15 @@ const Footer = () => {
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Links</h4>
-          <p>Overons</p>
           <p>Social Media</p>
-          <p>Counters</p>
+          <p>Careers</p>
           <p>Contact</p>
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Company</h4>
           <p>Terms & Conditions</p>
           <p>Privacy Policy</p>
-          <p>Contact</p>
+          <p>Legal</p>
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Get in touch</h4>
