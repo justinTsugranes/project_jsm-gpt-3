@@ -335,7 +335,7 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 <!-- LINK & IMAGE VARIABLES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[project-screenshot]: images/project-screenshot.jpg
+[project-screenshot]: images/screenshot.jpg
 [project-url]: https://justin-tsugranes-gpt3.netlify.app/
 [repo-url]: https://github.com/justintsugranes/project_jsm-gpt-3.git
 [contributors-shield]: https://img.shields.io/github/contributors/justintsugranes/project_jsm-gpt-3.svg?style=for-the-badge
