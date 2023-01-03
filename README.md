@@ -52,8 +52,6 @@ React Frontend for an OpenAI - ChatGPT company
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
 
-<!-- TODO: UNCOMMENT APPLICABLE TECH -->
-
 ### Stack
 
 #### Frontend
@@ -297,8 +295,6 @@ _For more examples, please refer to the [Documentation][repo-url]_ -->
 
 See the [open issues][issues-url] for a full list of proposed features (and known issues). -->
 
-<!-- TODO: UPDATE LICENSE IF NECESSARY -->
-
 ## License
 
 Distributed under the [MIT License][license-url]. See `LICENSE.md` for more information.
@@ -331,7 +327,6 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 
 ---
 
-<!-- TODO: UPDATE PROJECT INFO: HIGHLIGHT AND CMD+D TO SELECT ALL OCCURRANCES - CHANGE TO PROJECT TITLE -->
 <!-- LINK & IMAGE VARIABLES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
@@ -349,7 +344,6 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 [license-shield]: https://img.shields.io/github/license/justintsugranes/project_jsm-gpt-3.svg?style=for-the-badge
 [license-url]: https://github.com/justinTsugranes/project_jsm-gpt-3/blob/main/LICENSE.md
 
-<!-- TODO: UNCOMMENT USED TECH -->
 <!-- TECH SHIELD VARIABLES -->
 
 <!-- JS LIBRARIES / FRAMEWORKS -->
