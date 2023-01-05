@@ -46,9 +46,7 @@ React Frontend for an OpenAI - ChatGPT company
 
 [![Project Screen Shot][project-screenshot]][project-url] [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
-<!-- TODO: ADD LONG PROJECT DESCRIPTION -->
-
-<!-- LONG_PROJECT_DESCRIPTION -->
+Frontend application built using React.js that utilizes HTML and CSS for styling and layout. The user interface is clean, visually appealing, responsive, and user-friendly, allowing users to easily navigate and learn about GPT-3 AI.
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
 
